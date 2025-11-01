@@ -33,7 +33,7 @@ Integrates **OpenAI**, **FFmpeg**, **Streamlit**, **Dropbox**, and **Metricool A
 
 ## 👨‍💻 Developer
 **Malik Murray**  
-[LinkedIn](https://linkedin.com/in/malik-murray) • [GitHub](https://github.com/malik-murray) • [LevelUpSolutions.com](https://levelupsolutions1.com) • [LevelUpSolutions Blog](https://levelupsolutions1.com/blog) • [Digital Products]([https://www.levelupsolutions1.com/store-1))
+[LinkedIn](https://linkedin.com/in/malik-murray) • [GitHub](https://github.com/malik-murray) • [LevelUpSolutions.com](https://levelupsolutions1.com) • [Blog](https://levelupsolutions1.com/blog) • [Digital Products]([https://levelupsolutions1.com/store-1))
 
 ---
 
