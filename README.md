@@ -38,7 +38,7 @@ Integrates **OpenAI**, **FFmpeg**, **Streamlit**, **Dropbox**, and **Metricool A
 ---
 
 ## 🌍 Connect with Me
-Check out my full vidoe portfolio, social media links, and latest projects here:  
+Check out my full video portfolio, social media links, and latest projects here:  
 👉 [Social Media](https://beacons.ai/levelupsolutions)
 
 Follow for daily motivation, personal & spiritual development, and behind-the-scenes content from my LevelUpSolutions brand 💡
